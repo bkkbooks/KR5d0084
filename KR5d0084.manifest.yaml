@@ -45,12 +45,12 @@ assets:
   - {seq: 10, filename: KR5d0084_010.yaml, hash: 'sha256:3e8047fe2f9204976b841b1ab0bf309e9173ea07fc21998039a0ca9017af937d'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR5d0084_001.markers.yaml, hash: 'sha256:c6c17c45fb53daa5d63336de46aa5bfbef294f6abf65337c73fed2063fc55467'}
-  - {seq: 2, role: markers, filename: assets/KR5d0084_002.markers.yaml, hash: 'sha256:76e9b843d4f7ad57e89e160e3c7329beb6dacae215d8f8befffb91240e25aba3'}
+  - {seq: 2, role: markers, filename: assets/KR5d0084_002.markers.yaml, hash: 'sha256:81ac522b084285c781b510dca9562212529a3a45922e7b4deb72582429892592'}
   - {seq: 3, role: markers, filename: assets/KR5d0084_003.markers.yaml, hash: 'sha256:bbcd041ec2407c8de2e88606040ff2375cbb396f5a1e2a45840e5736bd748839'}
   - {seq: 4, role: markers, filename: assets/KR5d0084_004.markers.yaml, hash: 'sha256:ef4a13cb20c2d8d772eb537918be5c2a4068316ea30bab8cb77e9fe353aec4bc'}
   - {seq: 5, role: markers, filename: assets/KR5d0084_005.markers.yaml, hash: 'sha256:5c6d60a9de32d8bfcb5dbdbc76d66f14e9f79962b4115fc342cce1dcb420af29'}
   - {seq: 6, role: markers, filename: assets/KR5d0084_006.markers.yaml, hash: 'sha256:64016c8f0cc86b16f0dd049734d4d375ef5d2f8d72b0281e9c622cd39f6b5ea5'}
-  - {seq: 7, role: markers, filename: assets/KR5d0084_007.markers.yaml, hash: 'sha256:d5deed5e423003dc2527b57c5d951f1435eb7723335303e337a04d6e0a2199e7'}
+  - {seq: 7, role: markers, filename: assets/KR5d0084_007.markers.yaml, hash: 'sha256:44b6227ffe417a5fcd473bc6ab922f67b0c454a9207d84533af49886a98d6f66'}
   - {seq: 8, role: markers, filename: assets/KR5d0084_008.markers.yaml, hash: 'sha256:11aa27e80db74f2c038227df555d3a0c8ccbbf6020b756de19c1a5602bfd487b'}
   - {seq: 9, role: markers, filename: assets/KR5d0084_009.markers.yaml, hash: 'sha256:9a1247bc76829fd1ea4b50cc2b21a8fb29876c3fea57c5096053a822da702f6b'}
   - {seq: 10, role: markers, filename: assets/KR5d0084_010.markers.yaml, hash: 'sha256:8493b0ca4004563cd7050b172af3a655f7ac74916ba9b334118e3f534dbedd94'}
@@ -155,7 +155,7 @@ table_of_contents:
   label: juan 010
   type: section
   level: 1
-hash: sha256:e94e9e47e6ad3eb8e7b6048d21ed5ae8fadda3afc08c140ebf4ed518b06d3e1a
+hash: sha256:3333cd4d9907b2da8774b470b15d7d311916321af537ad6ac8d31f576307f3a9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

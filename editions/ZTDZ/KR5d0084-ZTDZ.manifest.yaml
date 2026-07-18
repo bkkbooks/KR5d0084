@@ -37,12 +37,12 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR5d0084_000-ZTDZ.markers.yaml, hash: 'sha256:0e5a93429ab1882dc646506568ee312412f2fd266467ec082e73840153c095b6'}
   - {seq: 1, role: markers, filename: assets/KR5d0084_001-ZTDZ.markers.yaml, hash: 'sha256:2eef88332bdfd4e6c8d6dd90aabd4539a24a2211c28c19d3e330e70a292fccf7'}
-  - {seq: 2, role: markers, filename: assets/KR5d0084_002-ZTDZ.markers.yaml, hash: 'sha256:73171e0cdede81b1a1f65916d11fd1214e4b15cf295c98330f5ee1f7f1336a64'}
+  - {seq: 2, role: markers, filename: assets/KR5d0084_002-ZTDZ.markers.yaml, hash: 'sha256:bb78aceb4a1ffe4decfc26e9f0ce5afb34aff7236177ccac4ebff95f0bb09f09'}
   - {seq: 3, role: markers, filename: assets/KR5d0084_003-ZTDZ.markers.yaml, hash: 'sha256:fa4d4d34b819438d567641c06c819df74bad7016c5b6fc896463f385abc5726d'}
   - {seq: 4, role: markers, filename: assets/KR5d0084_004-ZTDZ.markers.yaml, hash: 'sha256:be2782e10bf5ee18c0518f80c09852882e5d02db14c71413463a66e145465c05'}
   - {seq: 5, role: markers, filename: assets/KR5d0084_005-ZTDZ.markers.yaml, hash: 'sha256:3fbdf53669958028d57749627055a6f596ba267805005f84b559dbc77421343b'}
   - {seq: 6, role: markers, filename: assets/KR5d0084_006-ZTDZ.markers.yaml, hash: 'sha256:7e42e93d04bbac1de094b64cddefa6b8b5614dd1f5d8b8bee733f03bd6ea81a7'}
-  - {seq: 7, role: markers, filename: assets/KR5d0084_007-ZTDZ.markers.yaml, hash: 'sha256:fa308cd560ce45e2a9176993b6be7e93be4239279aba2c66861409e844aca646'}
+  - {seq: 7, role: markers, filename: assets/KR5d0084_007-ZTDZ.markers.yaml, hash: 'sha256:b721c63eff3f2eb8db8ed6233306e135fc8a4c70b1d11c3145b849faba3d4539'}
   - {seq: 8, role: markers, filename: assets/KR5d0084_008-ZTDZ.markers.yaml, hash: 'sha256:2340470c1c82e9bf1d276a1b2208672d76c6e3ae080c9110568c85ec961b005c'}
   - {seq: 9, role: markers, filename: assets/KR5d0084_009-ZTDZ.markers.yaml, hash: 'sha256:aa15d24a22e3719e607d6d1975d98f4752de360e5a55ae2c6c9b2d4f2cfa01fc'}
   - {seq: 10, role: markers, filename: assets/KR5d0084_010-ZTDZ.markers.yaml, hash: 'sha256:db1946da2ed3192b2777a4151815dc276c2978c0e55fb4d9efcaf2d9bc1453ef'}
@@ -157,4 +157,4 @@ table_of_contents:
   label: juan 010
   type: section
   level: 1
-hash: sha256:06df72f68d000bf7fb48a05bc4c92519a146fae22f52f6eff6db97dad36a7e1e
+hash: sha256:fe2d0a09a0c1a78addbb1a8980e89604e77b7b0dffd722228e3d5dce5ca5c1d0
